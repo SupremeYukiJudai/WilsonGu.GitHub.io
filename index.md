@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Wilson Gu's GitHub Pages
+
+All GEO594 Needs
 
 You can use the [editor on GitHub](https://github.com/SupremeYukiJudai/WilsonGu.GitHub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
